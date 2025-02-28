@@ -3,7 +3,8 @@ target/
 !**/src/main/**/target/
 !**/src/test/**/target/
 
-C:/Users/dell/Desktop/TomcatServlet_2115000249/Servlet/src/main/java/com/example/servlet/HelloServlet.java
+/src/main/java/com/example/servlet/LoginServlet.java
+/src/main/java/com/example/servlet/RegisterServlet.java
 
 ### IntelliJ IDEA ###
 .idea/modules.xml
